@@ -2,11 +2,11 @@
 
 ## Using twitterscraper
 
-### Twitter's API is very hard to work with, and has lots of limitations — luckily this library solves that problem. No API rate limits. No restrictions. Extremely fast
+Twitter's API is very hard to work with, and has lots of limitations — luckily this library solves that problem. No API rate limits. No restrictions. Extremely fast
 
-### No developers account or any sort of twitter account required to scrape tweets
+No developers account or any sort of twitter account required to scrape tweets
 
-### You can scrape tweets of any Twitter user or any hashtags
+You can scrape tweets of any Twitter user or any hashtags
 
 ![Alt text](https://img.shields.io/badge/python-v3.8-g)
 ![Alt text](https://img.shields.io/badge/twitterscraper-v1.4.0-yellow)
